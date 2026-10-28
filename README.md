@@ -38,7 +38,7 @@
 **Инструкция:**
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/yourusername/notes.git](https://github.com/Motras06/Note-s)
+   git clone https://github.com/Motras06/Note-s
    cd notes
    ```
 2. Установите зависимости:
